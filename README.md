@@ -1,2 +1,2 @@
 # CRUDusuario
-Esto es una Prueba Ténica Back
+Esto es una Prueba Técnica Back
