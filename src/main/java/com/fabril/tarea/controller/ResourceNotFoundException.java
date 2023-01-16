@@ -1,4 +1,4 @@
-package Controller;
+package com.fabril.tarea.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

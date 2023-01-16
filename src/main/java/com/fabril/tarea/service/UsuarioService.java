@@ -1,8 +1,8 @@
-package Service;
+package com.fabril.tarea.service;
 
 
-import Domain.Usuario;
-import Repository.UsuarioRepository;
+import com.fabril.tarea.domain.Usuario;
+import com.fabril.tarea.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

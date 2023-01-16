@@ -1,4 +1,4 @@
-package Domain;
+package com.fabril.tarea.domain;
 
 
 import lombok.AllArgsConstructor;
@@ -6,7 +6,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.util.List;
 import javax.persistence.*;
 
 @Getter

@@ -1,7 +1,7 @@
-package Controller;
+package com.fabril.tarea.controller;
 
-import Domain.Usuario;
-import Service.UsuarioService;
+import com.fabril.tarea.domain.Usuario;
+import com.fabril.tarea.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
